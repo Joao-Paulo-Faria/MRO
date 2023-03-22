@@ -85,7 +85,11 @@
       
    }
    
-  
-
-   
    }
+
+
+   .row-central {
+      margin-top: 15px;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);}
